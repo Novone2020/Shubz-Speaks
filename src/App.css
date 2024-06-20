@@ -48,7 +48,7 @@ h1 {
   background: #ffc600;
   border-bottom: 5px solid #F3C010;
   text-align: center;
-  font-size: 5rem;
+  font-size: 2.5rem;
   font-weight: 100;
   font-family: 'Pacifico', cursive;
   text-shadow: 3px 3px 0 #F3C010;
@@ -63,13 +63,13 @@ h1 {
   margin: 10px 0;
   padding: 10px;
   border: 0;
-  font-size: 3rem;
+  font-size: 2rem;
   background: #F7F7F7;
   outline: 0;
 }
 
 textarea {
-  height: 57vh;
+  height: 35vh;
 }
 
 .voiceinator button {
@@ -94,5 +94,5 @@ textarea {
 }
 
 .increase-font{
-  font-size: 3rem !important;
+  font-size: 2rem !important;
 }

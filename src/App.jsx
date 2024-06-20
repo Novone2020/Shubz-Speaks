@@ -81,8 +81,8 @@ const App = () => {
       />
       <textarea name="text" value={text} onChange={handleTextChange} />
 
-      <button onClick={() => toggle(true)}  className='increase-font'>Speak</button>
-      <button onClick={() => toggle(false)}  className='increase-font'>Stop!</button>
+      <button onClick={() => toggle(true)} className='increase-font'>Speak</button>
+      <button onClick={() => toggle(false)} className='increase-font'>Stop!</button>
     </div>
   );
 };
